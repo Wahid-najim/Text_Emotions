@@ -4,11 +4,11 @@ Overview
 The Text Emotion Checker is a Python application designed to analyze text input and classify the emotional tone. This project leverages machine learning models to predict emotions from text, visualizes the results, and provides a user-friendly interface using Tkinter.
 Features
 
-    Text Preprocessing: Cleans and preprocesses text data to improve model accuracy.
-    Multiple Classifiers: Utilizes Logistic Regression, Random Forest, and SVM models for emotion classification.
-    Model Selection: Employs Grid Search for hyperparameter tuning to find the best model.
-    GUI Application: Provides a graphical user interface for easy interaction and analysis.
-    Visualization: Displays emotion probabilities and confusion matrix using Matplotlib and Seaborn.
+Text Preprocessing: Cleans and preprocesses text data to improve model accuracy.
+Multiple Classifiers: Utilizes Logistic Regression, Random Forest, and SVM models for emotion classification.
+Model Selection: Employs Grid Search for hyperparameter tuning to find the best model.
+GUI Application: Provides a graphical user interface for easy interaction and analysis.
+Visualization: Displays emotion probabilities and confusion matrix using Matplotlib and Seaborn.
 
 Installation
 
