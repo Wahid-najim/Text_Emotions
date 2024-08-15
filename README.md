@@ -1,4 +1,4 @@
-Text Emotion Checker
+# Text Emotion Checker
 Overview
 
 The Text Emotion Checker is a Python application designed to analyze text input and classify the emotional tone. This project leverages machine learning models to predict emotions from text, visualizes the results, and provides a user-friendly interface using Tkinter.
